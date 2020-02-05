@@ -1,0 +1,108 @@
+# Eon Survival Config File
+
+
+# Join/Leave Message
+Welcome-Message: "&b&lWelcome <player> to Eon Survival!! Feel free to ask any questions that you might have"
+
+Join-Message: "&7[&a&l+&r&7] &b<player>"
+
+Leave-Message: "&7[&4&l-&r&7] &b<player>"
+
+# Gamemode Messages
+
+Survival-Message: "&bSurvival Time!"
+Survival-Other: "&bYou have set <target> into survival mode!"
+
+Creative-Message: "&bCreative Time!"
+Creative-Other: "&bYou have set <target> into creative mode!"
+
+Spectator-Message: "&bSpectator Time!"
+Spectator-Other: "&bYou have set <target> into spectator mode!"
+
+# Heal/Feed Message
+
+Heal-Message: "&bHealed!"
+Heal-Other: "&b<player> has been healed!"
+
+Feed-Message: "&bYou have been fed"
+Feed-Other: "&b<target> has been fed"
+
+# Clear Inventory Message
+
+Clear-Self-Inventory: "&bYour inventory has been cleared"
+Target-Clear-Inventory: "&bYour inventory has been cleared"
+Clear-Other-Inventory: "&b<target> inventory has been cleared"
+
+# Extinguish Message
+
+Extinguish-Message: ""
+Extinguish-Other-Message: ""
+Target-Extinguish-Message: ""
+
+# Discord Message
+
+Discord-Message: ""
+
+# Vanish Messages
+
+Vanish-Message: ""
+Unvanish-Message: ""
+
+# Burn Messages
+
+Target-Burn-Message: ""
+Burn-Message: ""
+
+# Night Vision Messages
+
+NV-Message: "&bGranted Night Vision"
+NV-Off: "&bNight Vision removed"
+Target-NV-Message: "&b<target> now has night vision"
+
+# F Message (In case I want everyone to say other than F)
+
+F-Message: "F"
+
+# Gamemode Check Messages
+
+GamemodeCheck-Message: "&b<target> is in <gamemode>"
+
+# Pickup Command
+
+Pickup-Off: "&b<target> can no longer pickup items"
+Pickup-On: "&b<target> can now pickup items"
+
+# Fly Messages
+
+Fly-On: "&bFly On"
+Fly-Off: "&bFly Off"
+
+Target-Fly-On: "<target> can now fly"
+Target-Fly-Off: "<target> can no longer fly"
+
+# Command Spy Messages
+
+CommandSpy-On: ""
+CommandSpy-Off: ""
+
+# Freeze Messages
+
+Freeze-Immune: "&b&lPlayer cannot be &nfrozen&r&b&l!"
+
+Target-Unfrozen: "&b&lYou have been &nunfrozen&r&b&l!"
+Target-Frozen: "&b&lYou have been &nfrozen&r&b&l!"
+
+Player-Frozen: "&b<player> has been frozen!"
+Player-Unfrozen: "&b<player> has been unfrozen!"
+
+# Admin GUI Messages
+
+Time-Set-Day: "&bDay has come!"
+Time-Set-Night: "&bNight has come!"
+Weather-Set-Clear: "&bRain has been cleared"
+Weather-Set-Rain: "&bSummoned the rain"
+
+# Other Messages
+Reload-Message: "&bSuccessfully reloaded"
+No-Perms: "Unknown command. Type /help for help"
+Target-Null: "&bThat player is offline!"
